@@ -22,12 +22,12 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/ArtemKlyuev/telegram-web-app.git",
+    "url": "https://github.com/97albertus/telegram-web-app.git",
     "directory": "packages/react"
   },
-  "homepage": "https://github.com/ArtemKlyuev/telegram-web-app/tree/main/packages/react",
+  "homepage": "https://github.com/97albertus/telegram-web-app/tree/main/packages/react",
   "bugs": {
-    "url": "https://github.com/ArtemKlyuev/telegram-web-app/issues"
+    "url": "https://github.com/97albertus/telegram-web-app/issues"
   },
   "type": "module",
   "engines": {
